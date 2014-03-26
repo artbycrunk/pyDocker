@@ -1,0 +1,4 @@
+pyDocker
+========
+
+ Python package documenter
